@@ -31,6 +31,7 @@
 <p align="left">
   <a href="https://medium.com/@ps26.pawan"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pawan-sharma-noida"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://builder.aws.com/community/@pabbico"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=flat&logo=amazonaws&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>📍 Based in Noida, India</sub></p>
