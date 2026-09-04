@@ -23,7 +23,7 @@
 | Project | Description |
 |---|---|
 | [k8s-scheduling-deep-dive](https://github.com/pabbico/k8s-scheduling-deep-dive.git) | Hands-on Kubernetes scheduling demo — taints, affinity, and a real production bug fix |
-| [k8s-traffic-policy-demo](link) | Deep dive into external/internal traffic policy and node-level routing behavior |
+| [k8s-traffic-policy-demo](https://github.com/pabbico/k8s-traffic-policy-demo.git) | Deep dive into external/internal traffic policy and node-level routing behavior |
 
 
 ### 📫 Connect with me
