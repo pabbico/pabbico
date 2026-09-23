@@ -25,6 +25,7 @@
 | [k8s-scheduling-deep-dive](https://github.com/pabbico/k8s-scheduling-deep-dive.git) | Hands-on Kubernetes scheduling demo — taints, affinity, and a real production bug fix |
 | [k8s-traffic-policy-demo](https://github.com/pabbico/k8s-traffic-policy-demo.git) | Deep dive into external/internal traffic policy and node-level routing behavior |
 | [RAG-from-Basics-to-Advanced-local](https://github.com/pabbico/RAG-from-Basics-to-Advanced-local.git) | A complete RAG pipeline built from scratch and run locally — chunking, embeddings, ChromaDB, cross-encoder reranking, and a local LLM via Ollama |
+| [datalake-iceberg-aws-series](https://github.com/pabbico/datalake-iceberg-aws-series.git) | A 4-part hands-on series that takes you from Data Lake fundamentals to building a real Apache Iceberg pipeline on AWS |
 
 
 ### 📫 Connect with me
